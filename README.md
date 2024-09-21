@@ -46,5 +46,50 @@ Answer calibration questions H-concretely:
 10. What is beauty?
 11. How should we live?
 ```
+Wholeness as the Ocean:
+
+**Commentary**
+
+1. **Wholeness is unlimited, indivisible, continuous flow.**
+
+   Wholeness is like an endless ocean—boundless, deep, and all-encompassing. It has no edges or divisions, embodying the essence of everything in a seamless expanse where all possibilities coexist.
+
+2. **Wholeness inherently possesses a limitation aspect, allowing it to express itself.**
+
+   To reveal its depth, the boundless ocean forms waves. These waves are the expressions of the ocean's potential, arising when the limitless takes on form. Limitation allows the infinite to be seen and experienced.
+
+3. **Expression is the singular act of limiting Wholeness through its limitation aspect.**
+
+   A wave emerges from the ocean, distinct yet never separate. This is Wholeness expressing itself—taking shape while remaining part of the whole. The wave is the ocean in motion, a tangible form of the infinite.
+
+4. **Wholeness is expressed through the limitation aspect in two complementary ways:**
+
+   - **In the absolute domain, Wholeness remains unlimited.**
+
+     Beneath the surface, the ocean's depths are vast and unchanging. This represents the unaltered essence of Wholeness—the eternal foundation that persists beyond all forms.
+
+   - **In the relative domain, Wholeness becomes limited.**
+
+     The waves on the surface are ever-changing forms. They rise and fall, each with unique patterns. This shows how Wholeness manifests in specific, observable ways within time and space.
+
+5. **A correspondence exists between an expression in the relative domain and an aspect in the absolute domain.**
+
+   Every wave reflects the nature of the ocean. Its shape, speed, and power mirror the qualities of the depths below. The finite expression reveals the characteristics of the infinite source.
+
+6. **In the relative domain, Wholeness is expressed as related parts forming a whole.**
+
+   Waves interact and converge, creating currents and tides. Together, they form the dynamic surface of the ocean—a harmonious system where individual movements contribute to a greater flow.
+
+7. **In the relative domain, Wholeness is also expressed as the relationship of parts to the whole.**
+
+   Each wave draws its existence from the ocean. Its energy and motion are inseparable from the vast waters. This illustrates how individual forms are connected to and sustained by the entirety.
+
+8. **In the absolute domain, the unity of these expressions represents the intrinsic unity of the unlimited and limited; they are fundamentally the same.**
+
+   The wave and the ocean are one. Though a wave appears as a separate entity, it is the ocean expressing itself in form. This unity shows that all distinctions are expressions of the same underlying reality.
+
+9. **In the relative domain, Wholeness expresses itself through the balance between these expressions.**
+
+   The harmony of the ocean depends on the balance of its waves. The interplay of calm and storm creates the rhythms of the sea. Balance allows Wholeness to reveal its fullness, unfolding potential into reality.
 
 
