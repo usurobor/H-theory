@@ -3,7 +3,7 @@
 2. run it in gpt by arrow button 
 
 ```text
-H-theory 1.3.1
+H-theory 1.3.2
 1. **Wholeness (H)** is unlimited, indivisible, continuous flow.
 2. **H** inherently possesses a **limitation aspect**, allowing it to express itself.
 3. **Expression** is the singular act of **limiting H** through its **limitation aspect**.
