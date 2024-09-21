@@ -46,9 +46,7 @@ Answer calibration questions H-concretely:
 10. What is beauty?
 11. How should we live?
 ```
-Wholeness as the Ocean:
-
-**Commentary**
+**H-Ocean**:
 
 1. **Wholeness is unlimited, indivisible, continuous flow.**
 
@@ -92,4 +90,49 @@ Wholeness as the Ocean:
 
    The harmony of the ocean depends on the balance of its waves. The interplay of calm and storm creates the rhythms of the sea. Balance allows Wholeness to reveal its fullness, unfolding potential into reality.
 
+**H-Music:**
+
+1. **Wholeness is unlimited, indivisible, continuous flow.**
+
+   Imagine a vast silence before a symphony begins—a profound stillness that holds all possible music within it. This silence represents Wholeness: limitless, undivided, and full of infinite potential.
+
+2. **Wholeness inherently possesses a limitation aspect, allowing it to express itself.**
+
+   For music to emerge from silence, there must be notes—distinct sounds that give form to melodies. This introduction of notes is the limitation aspect, enabling the boundless silence to manifest as audible expression.
+
+3. **Expression is the singular act of limiting Wholeness through its limitation aspect.**
+
+   The first note pierces the silence, transforming the intangible into the tangible. This act of expression is Wholeness limiting itself to create music—a flow of sound that we can hear and feel.
+
+4. **Wholeness is expressed through the limitation aspect in two complementary ways:**
+
+   - **In the absolute domain, Wholeness remains unlimited.**
+
+     Beneath every note, the silence persists. It is the constant backdrop—the canvas upon which music is painted. This represents the unchanging essence of Wholeness that remains ever-present.
+
+   - **In the relative domain, Wholeness becomes limited.**
+
+     The notes and melodies are the limited expressions. They have specific pitches, durations, and rhythms. Through these limitations, the infinite potential of silence becomes structured and perceptible.
+
+5. **A correspondence exists between an expression in the relative domain and an aspect in the absolute domain.**
+
+   Each melody reflects the qualities of the silence from which it arises. The harmony and resonance of the music mirror the depth of the silence, showing how finite expressions are connected to their infinite source.
+
+6. **In the relative domain, Wholeness is expressed as related parts forming a whole.**
+
+   Individual notes come together to form chords and harmonies. These harmonies blend into a cohesive piece—a symphony where every part contributes to the beauty of the whole.
+
+7. **In the relative domain, Wholeness is also expressed as the relationship of parts to the whole.**
+
+   Each instrument in an orchestra plays its unique role, yet all are synchronized within the composition. The interplay between instruments and the collective harmony illustrates how individual elements relate to and enhance the unity of the performance.
+
+8. **In the absolute domain, the unity of these expressions represents the intrinsic unity of the unlimited and limited; they are fundamentally the same.**
+
+   The music and the silence are inseparable. Without silence, there can be no music; without music, the silence remains unexpressed. This unity shows that all distinctions are different facets of the same underlying reality.
+
+9. **In the relative domain, Wholeness expresses itself through the balance between these expressions.**
+
+   The beauty of a symphony lies in the balance of sound and silence, tempo and rhythm. Harmony arises when notes are arranged thoughtfully, allowing Wholeness to reveal itself through the equilibrium of its expressions.
+
+(HT1.3.1)
 
