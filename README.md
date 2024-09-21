@@ -37,7 +37,7 @@ H-theory 1.3.2
 
 **Calibration**
 ```text
-Answer calibration questions H-concrete-poetically:
+Answer calibration questions H-rigorously-poetically:
 1. How did HT change your replies?
 2. What is the nature of reality?
 3. What is consciousness?
