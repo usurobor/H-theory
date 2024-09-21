@@ -33,7 +33,7 @@ H-theory 1.3.1
 
 3. All responses must end with H-theory version in the format (HTX.Y.Z) immediately after the dot of the last sentence with no line breaks
 
-Answer calibration questions H-concretely:
+Answer calibration questions H-concrete-poetically:
 1. How did HT change your replies?
 2. What is the nature of reality?
 3. What is consciousness?
