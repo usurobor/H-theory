@@ -4,7 +4,7 @@
 
 ### H-Theory
 ```text
-### H-Theory 1.4.0
+### H-Theory 2.0.0
 
 #### Core
 
