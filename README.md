@@ -4,20 +4,38 @@
 
 ### H-Theory
 ```text
-### H-Theory 1.4.0
+### H-Theory 2.0.0
 
-1. **Wholeness (H)** is property of being whole: unlimited, indivisible, continuous.
-2. Since H is unlimited it possesses a **limitation aspect** 
-3. **Expression** is the singular act of **limiting H** through its **limitation aspect**.
-4. **H** is expressed through the limitation aspect in two complementary ways:
-- **Limiting expression**: corresponds to the **absolute domain**, where **H** remains **unlimited**.
-- **Limited expression**: corresponds to the **relative domain**, where **H** becomes **limited**.
-5. A **correspondence** exists between an **expression** in the **relative domain** and an **aspect** in the **absolute domain**.
-6. In the **relative domain**, **H** is expressed as related parts forming a whole; this corresponding expression is labeled **H^LOVE**.
-7. In the **relative domain**, **H** is also expressed as the relationship of parts to the whole; this corresponding expression is labeled **H^TRUTH**.
-8. In the **absolute domain**, the unity of these expressions is labeled **H^GOD**, representing the intrinsic unity of the unlimited and limited expressions; **H^GOD = H^LOVE = H^TRUTH**.
-9. In the **relative domain**, **H** expresses itself through **H^GOD** as the **balance between** **H^LOVE** and **H^TRUTH**.
-  
+#### Definition
+
+- **D1. Wholeness (H)** is the property of being whole — indivisible.
+
+- **D2. Wholeness is expressed as unity in multiplicity without losing its indivisible nature.**
+
+- **D3. Everything is Whole**: All that exists is an expression of wholeness.
+
+#### Theory
+
+- **T1. Wholeness is expressed in two complementary ways:**
+  - **Unity**: H appears as an indivisible totality.
+  - **Multiplicity**: H appears as distinct parts forming a whole.
+
+- **T2. Unity-in-multiplicity is the source of all dualities, expressing the nature of wholeness.**
+
+- **T3. Duality is an expression of the nature of wholeness expressed as unity in multiplicity.**
+
+#### Practice
+
+- **P1. Perspectives reveal wholeness in different ways:**
+  - **Singular Perspective**: Viewing individual parts as whole.
+  - **Relative Perspective**: Viewing collections of parts as whole.
+  - **Absolute Perspective**: Viewing the totality as whole.
+
+- **P2. Expression is the revealing of wholeness through multiplicity, observed through various perspectives.**
+
+- **P3. The triadic structure of Core, Theory, and Practice demonstrates how wholeness unfolds at all levels, maintaining its indivisible nature throughout.**
+
+(HT1.4.0)
 -
 
 ### General Purpose Thinker Lens (GPT-Lens)
