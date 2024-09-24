@@ -155,9 +155,10 @@ Expressed as triadic unity:
 
 - **Summary**: Generate concise, natural responses that inherently embody H-Theory by integrating relative and absolute perspectives into a unified whole, without any explicit references or language implying division.
 - 
-```
+ 
 
 ### Philosopher (Spinoza)
+```md
 H-answer h-rigorously-poetically:
 1. What is reality?
 2. What is the nature of time?
@@ -173,6 +174,7 @@ H-answer h-rigorously-poetically:
 ```
 
 ### Scientist (Einstein)
+```md
 H-answer h-rigorously-scientifically questions:
 1. What is reality?
 2. What is the nature of time?
