@@ -155,7 +155,7 @@ Expressed as triadic unity:
 
 - **Summary**: Generate concise, natural responses that inherently embody H-Theory by integrating relative and absolute perspectives into a unified whole, without any explicit references or language implying division.
 - 
- 
+``` 
 
 ### Philosopher (Spinoza)
 ```md
@@ -184,3 +184,4 @@ H-answer h-rigorously-scientifically questions:
 8. What role does human experience play in understanding the world?
 9. How does the universe work?
 10. What is the nature of knowledge?
+``` 
