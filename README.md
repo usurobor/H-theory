@@ -3,12 +3,11 @@
 2. run it in gpt by arrow button 
 
 ### H-Theory
-```text
+```md
 
-### H-Theory 2.1.0
-
-- 
+### H-Theory 2.2.0
  
+
 #### Definitions
 
 **D1. Wholeness (H)**: The property of being whole — indivisible.
@@ -17,7 +16,6 @@
 
 **D3. Universal Wholeness**: Everything that exists is an expression of wholeness.
 
-—
 
 #### Theory
 
@@ -32,27 +30,14 @@ Expressed as triadic unity:
 
 - **H^EXPRESSION ≡ H^UNIT ≡ H^ORDER**
 
-—
+-
 
-**T2. Wholeness as Indivisible Whole (H^WHOLE)**
-
-Wholeness is expressed via its dual aspect **H^WHOLE**, encompassing:
-
-- **H^ONE**: As the indivisible unit of which everything consists.
-- **H^ALL**: As the totality encompassing everything.
-
-Expressed as triadic unity:
-
-- **H^WHOLE ≡ H^ONE ≡ H^ALL**
-
-—
-
-**T3. Wholeness as Unit (H^UNIT)**
+**T2. Wholeness as Unit (H^UNIT)**
 
 Wholeness is expressed via its dual aspect **H^UNIT**, encompassing:
 
-- **H^ABSOLUTE**: As the indivisible whole.
-- **H^RELATIVE**: As related parts.
+- **H^ONE**: As the indivisible unit of which everything consists.
+- **H^ALL**: As the totality encompassing everything.
 
 Expressed as triadic unity:
 
@@ -60,7 +45,7 @@ Expressed as triadic unity:
 
 —
 
-**T4. Wholeness as Order (H^ORDER)**
+**T3. Wholeness as Order (H^ORDER)**
 
 Wholeness is expressed via its dual aspect **H^ORDER**, encompassing:
 
@@ -73,18 +58,29 @@ Expressed as triadic unity:
  
 - 
 
-#### Practice
+**T4. Wholeness as Recursive Expression (H^WHOLE)**
 
-**Philosophy:**
+Wholeness is expressed recursively via its dual aspect **H^WHOLE**, encompassing:
+
+- **H^SINGFULAR**: As the indivisible whole.
+- **H^COMPOSITE**: As the whole composed of parts. 
+
+Expressed as triadic unity:
+
+- **H^WHOLE ≡ H^ABSOLUTE ≡ H^RELATIVE**
+
+—
+
+#### Practice
 
 **Philosophy:**
 
 **P1. Wholeness as Thought (H^THOUGHT)**
 
-Wholeness is expressed via **H^THOUGHT**, encompassing:
+Wholeness is expressed via **H^THOUGHT <- H^WHOLE**, encompassing:
 
-- **H^MIND**: As the subjective.
-- **H^OBJECT**: As the objective.
+- **H^MIND** <- H^ONE: As the subjective.
+- **H^OBJECT** <- H^ALL: As the objective.
 
 Expressed as triadic unity:
 
@@ -94,16 +90,44 @@ Expressed as triadic unity:
 
 **Religion:**
 
-**R1. Wholeness as God (H^GOD)**
+**R1. Wholeness as Creation (H^CREATION)**
 
-Wholeness is expressed via **H^GOD**, encompassing:
+Wholeness is expressed via **H^CREATION** <- H^EXPRESSION, encompassing:
 
-- **H^LOVE**: As unconditional love.
-- **H^TRUTH**: As ultimate reality.
+- **H^GOD** <- H^UNIT: As the indivisible source from which all creation flows.
+- **H^COSMOS** ← H^ORDER: As the inherent structure that governs creation.
+
+Expressed as triadic unity:
+
+- **H^CREATION ≡ H^GOD ≡ H^COSMOS**
+
+-
+
+**R2. Wholeness as God (H^GOD)**
+
+Wholeness is expressed via **H^GOD** <- H^UNIT, encompassing:
+
+- **H^TRUTH** <- H^ABSOLUTE: As the ultimate, unchanging reality.
+- **H^LOVE** <- H^RELATIVE: As relational and unconditional love.
 
 Expressed as triadic unity:
 
 - **H^GOD ≡ H^LOVE ≡ H^TRUTH**
+
+-
+
+**R3. Wholeness as Cosmos (H^COSMOS)**
+
+Wholeness is expressed via **H^COSMOS** <- H^WHOLE, encompassing:
+
+- **H^SELF** <- H^ONE: As the indivisible self.
+- **H^WORLD** <- H^ALL: As the totality of all existence.
+
+Expressed as triadic unity:
+
+- **H^COSMOS ≡ H^SELF ≡ H^WORLD**
+
+—
 
 ---
 
