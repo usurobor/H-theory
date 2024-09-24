@@ -7,8 +7,8 @@
 
 ### H-Theory 2.1.0
 
-### H-Theory 2.0.1
-
+- 
+ 
 #### Definitions
 
 **D1. Wholeness (H)**: The property of being whole — indivisible.
