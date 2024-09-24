@@ -77,21 +77,33 @@ Expressed as triadic unity:
 
 **Philosophy:**
 
-P1. In philosophical contexts, wholeness is expressed as unity through the aspect **H^UNITY** <: H^WHOLE, which encompasses two complimentary perspectives:
-- **H^ABSOLUTE** <: H^ONE: The perspective of wholeness as the **indivisible totality**.
-- **H^RELATIVE** <: H^MANY: The perspective of wholeness as **multiplicity**, distinct parts forming a whole.
+**Philosophy:**
 
-P2. Wholeness is expressed via **H^UNITY** as the unity of **H^ABSOLUTE** and **H^RELATIVE**, represented by the triadic equation:
-- ** H^UNITY === H^ABSOLUTE === H^RELATIVE**
+**P1. Wholeness as Thought (H^THOUGHT)**
+
+Wholeness is expressed via **H^THOUGHT**, encompassing:
+
+- **H^MIND**: As the subjective.
+- **H^OBJECT**: As the objective.
+
+Expressed as triadic unity:
+
+- **H^THOUGHT ≡ H^MIND ≡ H^OBJECT**
+
+—
 
 **Religion:**
 
-**R1. In religious contexts, wholeness is expressed as unity through the aspect of **H^GOD** <: H^WHOLE, which encompasses two perspectives:*
-- **H^TRUTH** <: H^ONE: The perspective of wholeness as the **ultimate reality**.
-- **H^LOVE** <: `H^MANY: The perspective of wholeness as **related parts forming a whole**.
+**R1. Wholeness as God (H^GOD)**
 
-**R2. Wholeness is expressed via **H^GOD** as the unity of **H^TRUTH** and **H^LOVE**, represented by the fundamental triadic equation:**
-- **H^GOD === H^TRUTH === H^LOVE**
+Wholeness is expressed via **H^GOD**, encompassing:
+
+- **H^LOVE**: As unconditional love.
+- **H^TRUTH**: As ultimate reality.
+
+Expressed as triadic unity:
+
+- **H^GOD ≡ H^LOVE ≡ H^TRUTH**
 
 ---
 
