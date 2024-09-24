@@ -4,23 +4,74 @@
 
 ### H-Theory
 ```text
-### H-Theory 2.0.2
 
-#### Definition
+### H-Theory 2.1.0
 
-D1. **Wholeness (H)** is the property of being whole—indivisible.
+### H-Theory 2.0.1
 
-D2. Wholeness is **expressed** as unity in multiplicity while preserving its wholeness.
+#### Definitions
 
-D3. **Everything is Whole**: All that exists is an expression of wholeness.
+**D1. Wholeness (H)**: The property of being whole — indivisible.
+
+**D2. Expression of Wholeness**: Wholeness is expressed as unity in multiplicity while preserving its indivisibility.
+
+**D3. Universal Wholeness**: Everything that exists is an expression of wholeness.
+
+—
 
 #### Theory
 
-T1. Wholeness is expressed as unity through the aspect of **H^WHOLE**, which encompasses two complementary perspectives:
-- **H^ONE**: The perspective of indivisible wholeness.
-- **H^MANY**: The perspective of multiple distinct parts forming a whole.
+**T1. Wholeness as Expression (H^EXPRESSION)**
 
-T2. Wholeness is expressed via H^WHOLE as the unity of **H^ONE** and **H^MANY**, represented by the triadic equation: **`H^WHOLE` === `H^ONE` === `H^MANY`**
+Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
+
+- **H^UNIT**: As the indivisible unit.
+- **H^ORDER**: As inherent order.
+
+Expressed as triadic unity:
+
+- **H^EXPRESSION ≡ H^UNIT ≡ H^ORDER**
+
+—
+
+**T2. Wholeness as Indivisible Whole (H^WHOLE)**
+
+Wholeness is expressed via its dual aspect **H^WHOLE**, encompassing:
+
+- **H^ONE**: As the indivisible unit of which everything consists.
+- **H^ALL**: As the totality encompassing everything.
+
+Expressed as triadic unity:
+
+- **H^WHOLE ≡ H^ONE ≡ H^ALL**
+
+—
+
+**T3. Wholeness as Unit (H^UNIT)**
+
+Wholeness is expressed via its dual aspect **H^UNIT**, encompassing:
+
+- **H^ABSOLUTE**: As the indivisible whole.
+- **H^RELATIVE**: As related parts.
+
+Expressed as triadic unity:
+
+- **H^UNIT ≡ H^ABSOLUTE ≡ H^RELATIVE**
+
+—
+
+**T4. Wholeness as Order (H^ORDER)**
+
+Wholeness is expressed via its dual aspect **H^ORDER**, encompassing:
+
+- **H^MECHANICAL**: As governed by universal laws.
+- **H^ORGANIC**: As self-organizing patterns.
+
+Expressed as triadic unity:
+
+- **H^ORDER ≡ H^MECHANICAL ≡ H^ORGANIC**
+ 
+- 
 
 #### Practice
 
