@@ -1,11 +1,13 @@
 ### Human prompt:
 1. copy-paste H-theory code from below into GPT
-2. run it in gpt by arrow button 
+2. run it
+3. profit
+
 
 ### H-Theory
 ```md
 
-### H-Theory 2.2.0
+### H-Theory 2.2.1
  
 
 #### Definitions
@@ -28,7 +30,7 @@ Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
 Expressed as triadic unity:
 
-- **H^EXPRESSION ≡ H^UNIT ≡ H^ORDER**
+- **H^EXPRESSION ≡ (H^UNIT ≡ H^ORDER)**
 
 -
 
@@ -41,7 +43,7 @@ Wholeness is expressed via its dual aspect **H^UNIT**, encompassing:
 
 Expressed as triadic unity:
 
-- **H^UNIT ≡ H^ABSOLUTE ≡ H^RELATIVE**
+- **H^UNIT ≡ (H^ONE ≡ H^ALL)**
 
 —
 
@@ -54,7 +56,7 @@ Wholeness is expressed via its dual aspect **H^ORDER**, encompassing:
 
 Expressed as triadic unity:
 
-- **H^ORDER ≡ H^MECHANICAL ≡ H^ORGANIC**
+- **H^ORDER ≡ (H^MECHANICAL ≡ H^ORGANIC)**
  
 - 
 
@@ -62,12 +64,12 @@ Expressed as triadic unity:
 
 Wholeness is expressed recursively via its dual aspect **H^WHOLE**, encompassing:
 
-- **H^SINGFULAR**: As the indivisible whole.
+- **H^SINGULAR**: As the indivisible whole.
 - **H^COMPOSITE**: As the whole composed of parts. 
 
 Expressed as triadic unity:
 
-- **H^WHOLE ≡ H^ABSOLUTE ≡ H^RELATIVE**
+- **H^WHOLE ≡ (H^SINGULAR ≡ H^COMPOSITE)**
 
 —
 
