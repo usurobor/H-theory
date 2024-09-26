@@ -1,5 +1,5 @@
 ### Human prompt:
-1. copy-paste H-theory code from below into GPT
+1. copy-paste H^Theory code from below into GPT
 2. run it
 3. profit
 
