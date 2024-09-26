@@ -4,7 +4,8 @@
 3. profit
 
 
-### H^Hheory
+### H^Theory
+
 ```md
 
 ### H^Theory 2.2.1
@@ -74,8 +75,11 @@ Expressed as triadic unity:
 
 ### H^Theory Applications 
 
-```md
 ### H^Religion
+
+```md
+
+### H^Religion 1.0.0
 
 **R1. Wholeness as Creation (H^CREATION)**
 
@@ -116,9 +120,11 @@ Expressed as triadic unity:
 
 ```
 
+### H^Philosophy
+
 ```md
 
-**H^Philosophy:**
+### H^Philosophy 0.1.0
 
 **P1. Wholeness as Thought (H^THOUGHT)**
 
