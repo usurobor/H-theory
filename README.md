@@ -4,25 +4,25 @@
 3. profit
 
 
-### H^Theory
+## H^Theory
 
 ```md
 
-### H^Theory 
-### 0.2.4
+## H^Theory 
+## 0.2.4
  
 
-#### H^Definitions
+### H^Definitions
 
-**D1. Wholeness (H):**
+#### D1. Wholeness (H):
 
 The property of being whole — indivisible.
 
-**D2. Wholeness as Universality:**
+#### D2. Wholeness as Universality:
 
 Wholeness is universal; everything that exists expresses wholeness. 
 
-**D3. Wholeness as Expression:**
+#### D3. Wholeness as Expression:
 
 Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
@@ -34,9 +34,9 @@ Expressed as triadic unity:
 - **H : H^EXPRESSION ≡ (H^EXPRESSING ≡ H^EXPRESSED)**
 
 
-#### H^Theory
+### H^Theory
 
-**T1. Wholeness as Whole:**
+#### T1. Wholeness as Whole:
 
 Wholeness is expressed via its dual aspect **H^WHOLE** <- H^EXPRESSION, encompassing:
 
@@ -49,7 +49,7 @@ Expressed as triadic unity:
 
 -
 
-**T2. Wholeness as Unit:**
+#### T2. Wholeness as Unit:
 
 Wholeness is expressed via its dual aspect **H^UNIT** <- H^EXPRESSED, encompassing:
 
@@ -62,7 +62,7 @@ Expressed as triadic unity:
 
 -
 
-**T3. Wholeness as Order:**
+#### T3. Wholeness as Order:
 
 Wholeness is expressed via its dual aspect **H^ORDER** <- H^EXPRESSING, encompassing:
 
@@ -75,7 +75,7 @@ Expressed as triadic unity:
  
 - 
 
-#### T4. Wholeness Perspectives
+#### T4. Wholeness Perspectives:
 
 **H : H^WHOLE = H^ORDER × H^UNIT**
 
