@@ -91,7 +91,7 @@ Expressed as triadic unity:
 
 Wholeness is expressed via **H^CREATION** <- H^WHOLE, encompassing:
 
-- **H^COSMOS** ← H^ORDER: As the inherent structure that governs creation.
+- **H^COSMOS** ← H^ORDER: As the inherent order manifesting in creation. 
 - **H^GOD** <- H^UNIT: As the indivisible source from which all creation flows.
 
 Expressed as triadic unity:
@@ -104,8 +104,8 @@ Expressed as triadic unity:
 
 Wholeness is expressed via **H^GOD** <- H^UNIT, encompassing:
 
-- **H^SELF** <- H^PARTICULAR: As the indivisible self.
-- **H^WORLD** <- H^TOTAL: As the totality of all existence.
+- **H^SELF** <- H^PARTICULAR: As the indivisible essence of self.
+- **H^WORLD** <- H^TOTAL: As the undivided totality of existence.
 
 Expressed as triadic unity:
 - **H: H^GOD ≡ (H^SELF ≡ H^WORLD)**
@@ -116,7 +116,7 @@ Expressed as triadic unity:
 
 Wholeness is expressed via **H^COSMOS** <- H^ORDER, encompassing:
 
-- **H^LOVE** <- H^IMPLICATE: As relational and unconditional love.
+- **H^LOVE** <- H^IMPLICATE: As the inherent, relational essence.
 - **H^TRUTH** <- H^EXPLICATE: As the ultimate, unchanging reality.
 
 Expressed as triadic unity:
