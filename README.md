@@ -34,7 +34,7 @@ Expressed as triadic unity:
 - **H : H^EXPRESSION ≡ (H^EXPRESSING ≡ H^EXPRESSED)**
 
 
-### H^Theory
+### H^Theorems
 
 #### T1. Wholeness as Whole:
 
