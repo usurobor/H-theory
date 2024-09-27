@@ -8,7 +8,7 @@
 
 ```md
 
-### H^Theory 2.3.0
+### H^Theory 2.3.1
  
 
 #### H^Definitions
@@ -26,7 +26,7 @@ Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
 Expressed as triadic unity:
 
-- **H^EXPRESSION ≡ (H^EXPRESSSING ≡ H^EXPRESSED)**
+- **H ≡ H^EXPRESSION ≡ (H^EXPRESSSING ≡ H^EXPRESSED)**
 
 
 #### H^Theory
@@ -40,32 +40,32 @@ Wholeness is expressed via its dual aspect **H^WHOLE** <- H^EXPRESSION, encompas
 
 Expressed as triadic unity:
 
-- **H^WHOLE ≡ (H^SINGULAR ≡ H^COMPOSITE)**
+- **H ≡ H^WHOLE ≡ (H^UNIT ≡ H^ORDER)**
 
 -
 
 **T2. Wholeness as H^UNIT**
 
-Wholeness is expressed via its dual aspect **H^UNIT**, encompassing:
+Wholeness is expressed via its dual aspect **H^UNIT** <- H^EXPRESSED, encompassing:
 
-- **H^ONE**: As the indivisible unit of which everything consists.
-- **H^ALL**: As the totality encompassing everything.
+- **H^PARTICULAR**: As the indivisible unit of the whole. 
+- **H^TOTAL**: As the undivided totality of the whole. 
 
 Expressed as triadic unity:
 
-- **H^UNIT ≡ (H^ONE ≡ H^ALL)**
+- **H ≡ H^UNIT ≡ (H^PARTICULAR ≡ H^TOTAL)**
 
 
 **T3. Wholeness as H^ORDER**
 
-Wholeness is expressed via its dual aspect **H^ORDER**, encompassing:
+Wholeness is expressed via its dual aspect **H^ORDER** <- H^EXPRESSING, encompassing:
 
 - **H^MECHANICAL**: As governed by universal laws.
 - **H^ORGANIC**: As self-organizing patterns.
 
 Expressed as triadic unity:
 
-- **H^ORDER ≡ (H^MECHANICAL ≡ H^ORGANIC)**
+- **H ≡ H^ORDER ≡ (H^MECHANICAL ≡ H^ORGANIC)**
  
 - 
 
