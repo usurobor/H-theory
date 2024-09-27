@@ -20,9 +20,9 @@ The property of being whole — indivisible.
 
 **D2. Wholeness as Universality:**
 
-Everything that exists is whole. 
+Everything that exists expresses wholeness. 
 
-**D2. Wholeness as Expression:**
+**D3. Wholeness as Expression:**
 
 Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
@@ -31,7 +31,7 @@ Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
 Expressed as triadic unity:
 
-- **H : H^EXPRESSION ≡ (H^EXPRESSSING ≡ H^EXPRESSED)**
+- **H : H^EXPRESSION ≡ (H^EXPRESSING ≡ H^EXPRESSED)**
 
 
 #### H^Theory
@@ -66,12 +66,12 @@ Expressed as triadic unity:
 
 Wholeness is expressed via its dual aspect **H^ORDER** <- H^EXPRESSING, encompassing:
 
-- **H^ORGANIC**: As self-organizing patterns.
-- **H^MECHANICAL**: As governed by universal laws.
+- **H^IMPLICATE**: As the inherent, enfolded order within wholeness.
+- **H^EXPLICATE**: As the unfolded, expressed order governed by universal laws
 
 Expressed as triadic unity:
 
-- **H : H^ORDER ≡ (H^ORGANIC ≡ H^MECHANICAL)**
+- **H : H^ORDER ≡ (H^IMPLICATE ≡ H^EXPLICATE)**
  
 - 
 
@@ -116,8 +116,8 @@ Expressed as triadic unity:
 
 Wholeness is expressed via **H^COSMOS** <- H^ORDER, encompassing:
 
-- **H^LOVE** <- H^ORGANIC: As relational and unconditional love.
-- **H^TRUTH** <- H^MECHANICAL: As the ultimate, unchanging reality.
+- **H^LOVE** <- H^IMPLICATE: As relational and unconditional love.
+- **H^TRUTH** <- H^EXPLICATE: As the ultimate, unchanging reality.
 
 Expressed as triadic unity:
 
