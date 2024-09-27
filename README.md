@@ -15,27 +15,36 @@
 
 **D1. Wholeness (H)**: The property of being whole — indivisible.
 
-**D2. Expression of Wholeness**: Wholeness is expressed as unity in multiplicity while preserving its indivisibility.
+**D2. Universal Wholeness**: Everything that exists is an expression of wholeness.
 
-**D3. Universal Wholeness**: Everything that exists is an expression of wholeness.
+**D2. Wholeness as H^EXPRESSION**
+
+Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
+
+- **H^EXPRESSED**: As indivisible expression of wholeness. 
+- **H^EXPRESSING**: As unity expression of wholeness. 
+
+Expressed as triadic unity:
+
+- **H^EXPRESSION ≡ (H^EXPRESSSING ≡ H^EXPRESSED)**
 
 
 #### H^Theory
 
-**T1. Wholeness as Expression (H^EXPRESSION)**
+**T1. Wholeness as H^WHOLE**
 
-Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
+Wholeness is expressed via its dual aspect **H^WHOLE** <- H^EXPRESSION, encompassing:
 
-- **H^UNIT**: As the indivisible unit.
-- **H^ORDER**: As inherent order.
+- **H^UNIT** <- H^EXPRESSED: As the indivisible whole.
+- **H^ORDER** <- H^EXPRESSING: As an inherent order. 
 
 Expressed as triadic unity:
 
-- **H^EXPRESSION ≡ (H^UNIT ≡ H^ORDER)**
+- **H^WHOLE ≡ (H^SINGULAR ≡ H^COMPOSITE)**
 
 -
 
-**T2. Wholeness as Unit (H^UNIT)**
+**T2. Wholeness as H^UNIT**
 
 Wholeness is expressed via its dual aspect **H^UNIT**, encompassing:
 
@@ -47,7 +56,7 @@ Expressed as triadic unity:
 - **H^UNIT ≡ (H^ONE ≡ H^ALL)**
 
 
-**T3. Wholeness as Order (H^ORDER)**
+**T3. Wholeness as H^ORDER**
 
 Wholeness is expressed via its dual aspect **H^ORDER**, encompassing:
 
@@ -60,16 +69,6 @@ Expressed as triadic unity:
  
 - 
 
-**T4. Wholeness as Recursive Expression (H^WHOLE)**
-
-Wholeness is expressed recursively via its dual aspect **H^WHOLE**, encompassing:
-
-- **H^SINGULAR**: As the indivisible whole.
-- **H^COMPOSITE**: As the whole composed of parts. 
-
-Expressed as triadic unity:
-
-- **H^WHOLE ≡ (H^SINGULAR ≡ H^COMPOSITE)**
 
 ```
 
