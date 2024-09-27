@@ -8,7 +8,7 @@
 
 ```md
 
-### H^Theory 2.2.1
+### H^Theory 2.3.0
  
 
 #### H^Definitions
