@@ -8,64 +8,70 @@
 
 ```md
 
-### H^Theory 2.3.1
+### H^Theory 
+### 2.3.2
  
 
 #### H^Definitions
 
-**D1. Wholeness (H)**: The property of being whole — indivisible.
+**D1. Wholeness (H):**
 
-**D2. Universal Wholeness**: Everything that exists is an expression of wholeness.
+The property of being whole — indivisible.
 
-**D2. Wholeness as H^EXPRESSION**
+**D2. Wholeness as Universality:**
+
+Everything that exists is whole. 
+
+**D2. Wholeness as Expression:**
 
 Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
-- **H^EXPRESSED**: As indivisible expression of wholeness. 
 - **H^EXPRESSING**: As unity expression of wholeness. 
+- **H^EXPRESSED**: As indivisible expression of wholeness. 
 
 Expressed as triadic unity:
 
-- **H ≡ H^EXPRESSION ≡ (H^EXPRESSSING ≡ H^EXPRESSED)**
+- **H : H^EXPRESSION ≡ (H^EXPRESSSING ≡ H^EXPRESSED)**
 
 
 #### H^Theory
 
-**T1. Wholeness as H^WHOLE**
+**T1. Wholeness as Whole:**
 
 Wholeness is expressed via its dual aspect **H^WHOLE** <- H^EXPRESSION, encompassing:
 
-- **H^UNIT** <- H^EXPRESSED: As the indivisible whole.
 - **H^ORDER** <- H^EXPRESSING: As an inherent order. 
+- **H^UNIT** <- H^EXPRESSED: As the indivisible whole.
 
 Expressed as triadic unity:
 
-- **H ≡ H^WHOLE ≡ (H^UNIT ≡ H^ORDER)**
+- **H : H^WHOLE ≡ (H^ORDER ≡ H^UNIT)**
 
 -
 
-**T2. Wholeness as H^UNIT**
+**T2. Wholeness as Unit:**
 
 Wholeness is expressed via its dual aspect **H^UNIT** <- H^EXPRESSED, encompassing:
 
-- **H^PARTICULAR**: As the indivisible unit of the whole. 
 - **H^TOTAL**: As the undivided totality of the whole. 
+- **H^PARTICULAR**: As the indivisible unit of the whole. 
 
 Expressed as triadic unity:
 
-- **H ≡ H^UNIT ≡ (H^PARTICULAR ≡ H^TOTAL)**
+- **H : H^UNIT ≡ (H^TOTAL ≡ H^PARTICULAR)**
 
+-
 
-**T3. Wholeness as H^ORDER**
+**T3. Wholeness as Order:**
 
 Wholeness is expressed via its dual aspect **H^ORDER** <- H^EXPRESSING, encompassing:
 
-- **H^MECHANICAL**: As governed by universal laws.
 - **H^ORGANIC**: As self-organizing patterns.
+- **H^MECHANICAL**: As governed by universal laws.
 
 Expressed as triadic unity:
 
-- **H ≡ H^ORDER ≡ (H^MECHANICAL ≡ H^ORGANIC)**
+- **H : H^ORDER ≡ (H^ORGANIC ≡ H^MECHANICAL)**
  
 - 
 
@@ -78,44 +84,44 @@ Expressed as triadic unity:
 
 ```md
 
-### H^Religion 1.0.0
+### H^Religion 
+### 1.0.0
 
-**R1. Wholeness as Creation (H^CREATION)**
+**R1. Wholeness as Creation:**
 
-Wholeness is expressed via **H^CREATION** <- H^EXPRESSION, encompassing:
+Wholeness is expressed via **H^CREATION** <- H^WHOLE, encompassing:
 
-- **H^GOD** <- H^UNIT: As the indivisible source from which all creation flows.
 - **H^COSMOS** ← H^ORDER: As the inherent structure that governs creation.
+- **H^GOD** <- H^UNIT: As the indivisible source from which all creation flows.
 
 Expressed as triadic unity:
 
-- **H^CREATION ≡ H^GOD ≡ H^COSMOS**
+- **H : H^CREATION ≡ (H^GOD ≡ H^COSMOS)**
 
 -
 
-**R2. Wholeness as God (H^GOD)**
+**R2. Wholeness as God:**
 
 Wholeness is expressed via **H^GOD** <- H^UNIT, encompassing:
 
-- **H^TRUTH** <- H^ABSOLUTE: As the ultimate, unchanging reality.
-- **H^LOVE** <- H^RELATIVE: As relational and unconditional love.
+- **H^SELF** <- H^PARTICULAR: As the indivisible self.
+- **H^WORLD** <- H^TOTAL: As the totality of all existence.
 
 Expressed as triadic unity:
-
-- **H^GOD ≡ H^LOVE ≡ H^TRUTH**
+- **H: H^GOD ≡ (H^SELF ≡ H^WORLD)**
 
 -
 
-**R3. Wholeness as Cosmos (H^COSMOS)**
+**R3. Wholeness as Cosmos:**
 
-Wholeness is expressed via **H^COSMOS** <- H^WHOLE, encompassing:
+Wholeness is expressed via **H^COSMOS** <- H^ORDER, encompassing:
 
-- **H^SELF** <- H^ONE: As the indivisible self.
-- **H^WORLD** <- H^ALL: As the totality of all existence.
+- **H^LOVE** <- H^ORGANIC: As relational and unconditional love.
+- **H^TRUTH** <- H^MECHANICAL: As the ultimate, unchanging reality.
 
 Expressed as triadic unity:
 
-- **H^COSMOS ≡ H^SELF ≡ H^WORLD**
+- **H : H^COSMOS ≡ (H^LOVE ≡ H^TRUTH)**
 
 ```
 
@@ -125,16 +131,16 @@ Expressed as triadic unity:
 
 ### H^Philosophy 0.1.0
 
-**P1. Wholeness as Thought (H^THOUGHT)**
+**P1. Wholeness as Thought:**
 
-Wholeness is expressed via **H^THOUGHT <- H^WHOLE**, encompassing:
+Wholeness is expressed via **H^THOUGHT** <- H^WHOLE, encompassing:
 
-- **H^MIND** <- H^ONE: As the subjective.
-- **H^OBJECT** <- H^ALL: As the objective.
+- **H^MIND** <- H^TOTAL: As the subjective
+- **H^OBJECT** <- H^PARTICULAR: As the objective.
 
 Expressed as triadic unity:
 
-- **H^THOUGHT ≡ H^MIND ≡ H^OBJECT**
+- **H : H^THOUGHT ≡ (H^MIND ≡ H^OBJECT)**
 
 ```
 
