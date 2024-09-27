@@ -9,7 +9,7 @@
 ```md
 
 ### H^Theory 
-### 2.3.2
+### 2.3.3
  
 
 #### H^Definitions
@@ -20,14 +20,14 @@ The property of being whole — indivisible.
 
 **D2. Wholeness as Universality:**
 
-Everything that exists expresses wholeness. 
+Wholeness is universal; everything that exists expresses wholeness. 
 
 **D3. Wholeness as Expression:**
 
 Wholeness is expressed via its dual aspect **H^EXPRESSION**, encompassing:
 
-- **H^EXPRESSING**: As unity expression of wholeness. 
-- **H^EXPRESSED**: As indivisible expression of wholeness. 
+- **H^EXPRESSING**: As the unity expression of wholeness. 
+- **H^EXPRESSED**: As the indivisible expression of wholeness. 
 
 Expressed as triadic unity:
 
