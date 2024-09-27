@@ -95,8 +95,7 @@ Resulting in:
 
 Therefore, **H : H^WHOLE = H^Field + H^Organism + H^Network + H^Mechanism**
 
-Wholeness is thus **expressed** through these four perspectives, each representing a combination of specific H^ORDER and H^UNIT.
-
+These four perspectives are partial expressions of the **H^WHOLE** perspective, representing partial views of the Whole.
 ```
 
 ### H^Theory Applications 
