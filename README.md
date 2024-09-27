@@ -33,6 +33,7 @@ Expressed as triadic unity:
 
 - **H : H^EXPRESSION ≡ (H^EXPRESSING ≡ H^EXPRESSED)**
 
+-
 
 ### H^Theorems
 
@@ -76,6 +77,8 @@ Expressed as triadic unity:
 - 
 
 #### T4. Wholeness Perspectives:
+
+Given:
 
 **H : H^WHOLE = H^ORDER × H^UNIT**
 
